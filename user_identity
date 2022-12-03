@@ -1,0 +1,10 @@
+#!/bin/bash
+read-first_name: input first name.
+echo -n "please enter your first name -> "
+read first_name
+read-last_name: input last name.
+echo -n "please enter your last name -> "
+read last_name
+read-nationality: input country.
+echo -n "please enter your nationality-> "
+read nationality
